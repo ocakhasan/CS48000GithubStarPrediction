@@ -5,8 +5,12 @@ def main():
 
     gitC = gitCollector("go","10..1000")
 
-    repos = gitC.getRepos()
+    repos, err = gitC.getRepos()
+    if err != None:
+        print('failed to fetch repositories from GitHub, err: ', err)
+        return
 
+    
     #format of one repo
     print(repos['items'][0])
 
