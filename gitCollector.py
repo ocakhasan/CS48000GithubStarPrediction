@@ -15,7 +15,7 @@ class gitCollector ():
 
         token = os.getenv('STAR_GITHUB_TOKEN', '')
         if token == '':
-            return "cannot get GITHUB token from, please declare STAR_GITHUB_TOKEN environment variable."
+            return None, "cannot get GITHUB token from, please declare STAR_GITHUB_TOKEN environment variable."
 
         
         # url that is used in curl. per_page parameter max 100 no more is allowed.
