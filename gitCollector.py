@@ -6,23 +6,23 @@ from typing import List
 #https://docs.github.com/en/rest/reference/search
 class gitCollector ():
 
-    def __init__(self, lang, stars):
+    def __init__(self, lang, stars, token):
         self.lang = lang
         self.stars = stars
+        self.token = token
 
     # gets page as parameter. returns page of search result.
     def getRepos(self,page=1):
-
-        token = os.getenv('STAR_GITHUB_TOKEN', '')
-        if token == '':
-            return None, "cannot get GITHUB token from, please declare STAR_GITHUB_TOKEN environment variable."
 
         
         # url that is used in curl. per_page parameter max 100 no more is allowed.
         # more than 5 ANDs or ORs not allowed in github queries.
         URL = f"https://api.github.com/search/repositories"
 
-        headers = {'Authorization': f'token {token}'}
+        headers = {
+            'Authorization': f'token {self.token}',
+            'accept': 'application/vnd.github.v3+json'
+        }
         params = {'q': f'?q=language:{self.lang}+stars:{self.stars}&order=desc&per_page=100&page={page}'}
         try:
             r = requests.get(URL, headers=headers, params=params)
@@ -34,5 +34,39 @@ class gitCollector ():
         except Exception as e:
             return None, e
         
-    def getStatsOfRepo(self,repoUrl):
-        return "stats"
+    def getStatsOfRepo(self, repoObj):
+        stats = {}
+        stats["name"] = repoObj["name"]
+        stats["url"] = repoObj["html_url"]
+        stats["star_count"] = repoObj["stargazers_count"]
+        if repoObj["license"] is None:
+            stats["licence"] = "Not Found"
+        else:
+            stats["license"] = repoObj["license"]["name"]
+        contributorCount, err = self.getContributorCountOfRepo(repoObj["contributors_url"])
+        if err == None:
+            stats["contributor_count"] = contributorCount
+        stats["forks"] = repoObj["forks_count"]
+        stats["githubPages"] = repoObj["has_pages"]
+        stats["open_issues"] = repoObj["open_issues"]
+        stats["topics_count"] = len(repoObj["topics"])
+        stats["created_at"] = repoObj["created_at"]
+        stats["updated_at"] = repoObj["updated_at"]
+        
+        return stats
+
+    def getContributorCountOfRepo(self, contUrl):
+        headers = {
+            'Authorization': f'token {self.token}',
+            'accept': 'application/vnd.github.v3+json'
+        }
+
+        try:
+            r = requests.get(contUrl, headers=headers)
+
+            if r.status_code != 200:
+                return None, Exception(f"expected to get HTTP 200, got HTTP {r.status_code}, URL: {r.url}")
+
+            return len(r.json()), None
+        except Exception as e:
+            return None, e
