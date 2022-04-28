@@ -2,6 +2,7 @@ import sys
 import os
 import requests
 from typing import List
+import re
 
 #https://docs.github.com/en/rest/reference/search
 class gitCollector ():
@@ -64,6 +65,7 @@ class gitCollector ():
         stats["created_at"] = repoObj["created_at"]
         stats["updated_at"] = repoObj["updated_at"]
         stats["allow_forking"]= repoObj["allow_forking"]
+        stats['commit_count'] = self.getCommitCount(repoObj['full_name'])
 
         return stats
 
@@ -82,3 +84,19 @@ class gitCollector ():
             return len(r.json()), None
         except Exception as e:
             return None, e
+
+    def getCommitCount(self, reponame):
+        headers = {
+            'Authorization': f'token {self.token}',
+            'accept': 'application/vnd.github.v3+json'
+        }
+
+
+        url = f'https://api.github.com/repos/{reponame}/commits?per_page=1' 
+        response = requests.get(url, headers=headers)
+
+        
+        
+        commit = response.json()[0] 
+        commit['number'] = re.search('\d+$', response.links['last']['url']).group()
+        return commit['number']
