@@ -64,8 +64,17 @@ class gitCollector ():
         stats["created_at"] = repoObj["created_at"]
         stats["updated_at"] = repoObj["updated_at"]
         stats["allow_forking"]= repoObj["allow_forking"]
-        stats['total_issue_count'] = self.getTotalIssueCount(repoObj["full_name"])
-        stats['commit_count'] = self.getCommitCount(repoObj['full_name'])
+        issue_count, err = self.getTotalIssueCount(repoObj["full_name"])
+        if err != None:    
+            stats['total_issue_count'] = 0
+        else:
+            stats["total_issue_count"] = issue_count
+        
+        commit_count, err = self.getCommitCount(repoObj['full_name'])
+        if err != None:
+            stats['commit_count'] = 0
+        else:
+            stats["commit_count"] = commit_count
 
         return stats
 
@@ -89,29 +98,36 @@ class gitCollector ():
             return None, e
 
     def getTotalIssueCount(self, reponame):
-        headers = {
-            'Authorization': f'token {self.token}',
-            'accept': 'application/vnd.github.v3+json'
-        }
+        try:
 
-        url = f'https://api.github.com/search/issues?q=repo:{reponame}+type:issue' 
+            headers = {
+                'Authorization': f'token {self.token}',
+                'accept': 'application/vnd.github.v3+json'
+            }
 
-        response = requests.get(url, headers=headers)
+            url = f'https://api.github.com/search/issues?q=repo:{reponame}+type:issue' 
 
-        return response.json()['total_count']
+            response = requests.get(url, headers=headers)
+
+            return response.json()['total_count'], None
+        except Exception as e:
+            return 0, e
 
     def getCommitCount(self, reponame):
-        headers = {
-            'Authorization': f'token {self.token}',
-            'accept': 'application/vnd.github.v3+json'
-        }
+        try:
+            headers = {
+                'Authorization': f'token {self.token}',
+                'accept': 'application/vnd.github.v3+json'
+            }
 
 
-        url = f'https://api.github.com/repos/{reponame}/commits?per_page=1' 
-        response = requests.get(url, headers=headers)
+            url = f'https://api.github.com/repos/{reponame}/commits?per_page=1' 
+            response = requests.get(url, headers=headers)
 
-        
-        
-        commit = response.json()[0] 
-        commit['number'] = re.search('\d+$', response.links['last']['url']).group()
-        return commit['number'] 
+            
+            
+            commit = response.json()[0] 
+            commit['number'] = re.search('\d+$', response.links['last']['url']).group()
+            return commit['number'], None
+        except Exception as e:
+            return 0, e
