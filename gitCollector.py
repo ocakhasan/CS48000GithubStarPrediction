@@ -51,7 +51,7 @@ class gitCollector ():
             stats["licence"] = "Not Found"
         else:
             stats["license"] = repoObj["license"]["name"]
-        contributorCount, err = self.getContributorCountOfRepo(repoObj["contributors_url"])
+        contributorCount, err = self.getContributorCountOfRepo(repoObj["full_name"])
         if err == None:
             stats["contributor_count"] = contributorCount
         stats["size"] = repoObj["size"]
@@ -69,19 +69,22 @@ class gitCollector ():
 
         return stats
 
-    def getContributorCountOfRepo(self, contUrl):
+    def getContributorCountOfRepo(self, reponame):
         headers = {
             'Authorization': f'token {self.token}',
             'accept': 'application/vnd.github.v3+json'
         }
 
         try:
-            r = requests.get(contUrl, headers=headers)
+            url = f'https://api.github.com/repos/{reponame}/contributors?per_page=1&anon=true'
+            r = requests.get(url, headers=headers)
 
             if r.status_code != 200:
                 return None, Exception(f"expected to get HTTP 200, got HTTP {r.status_code}, URL: {r.url}")
 
-            return len(r.json()), None
+            conts = r.json()[0] 
+            conts['number'] = re.search('\d+$', r.links['last']['url']).group()
+            return conts['number'], None
         except Exception as e:
             return None, e
 
@@ -112,4 +115,3 @@ class gitCollector ():
         commit = response.json()[0] 
         commit['number'] = re.search('\d+$', response.links['last']['url']).group()
         return commit['number'] 
-        
