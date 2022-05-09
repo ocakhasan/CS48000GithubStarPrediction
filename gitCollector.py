@@ -48,7 +48,7 @@ class gitCollector ():
         stats["url"] = repoObj["html_url"]
         stats["star_count"] = repoObj["stargazers_count"]
         if repoObj["license"] is None:
-            stats["licence"] = "Not Found"
+            stats["license"] = "Not Found"
         else:
             stats["license"] = repoObj["license"]["name"]
         contributorCount, err = self.getContributorCountOfRepo(repoObj["full_name"])
