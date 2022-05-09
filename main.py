@@ -1,10 +1,13 @@
-from re import I
-from gitCollector import gitCollector
 import os
 import warnings
+from re import I
+
+from gitCollector import gitCollector
+
 warnings.simplefilter(action='ignore', category=FutureWarning)
-import pandas as pd
 import os
+
+import pandas as pd
 from tqdm import tqdm
 
 
