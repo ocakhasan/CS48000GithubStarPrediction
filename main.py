@@ -19,7 +19,7 @@ def main():
 
     lang = "python"
     min_star_count = 100
-    max_star_count = 10000
+    max_star_count = 1000
     star_query = f"{min_star_count}..{max_star_count}"
 
     cwd = os.getcwd()
@@ -30,7 +30,7 @@ def main():
 
     data_folder = os.path.join(cwd, "data")
 
-    for i in range(0,2):
+    for i in range(11,15):
         df = pd.DataFrame()
         repos, err = gitC.getRepos(i)
         filename = f"{lang}_{min_star_count}_{max_star_count}_{i}.csv"
