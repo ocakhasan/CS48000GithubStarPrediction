@@ -26,14 +26,15 @@ class gitCollector ():
         #params = {'q': f'=language:{self.lang}+stars:{self.stars}&order=desc&per_page=100&page={page}'}
         params = {
             'q': f'language:{self.lang}+stars:{self.stars}',
-            'sort': 'stars',
-            'per_page': 100,
-            'page': {page}
+            'per_page': 30,
+            'page': page
         }
 
         payload_str = "&".join("%s=%s" % (k, v) for k, v in params.items())
+        print("currently scraping", URL + "?" + payload_str)
         try:
             r = requests.get(URL, headers=headers, params=payload_str)
+            print()
 
             if r.status_code != 200:
                 return None, Exception(f"expected to get HTTP 200, got HTTP {r.status_code}, URL: {r.url}")
@@ -41,7 +42,7 @@ class gitCollector ():
             return r.json(), None
         except Exception as e:
             return None, e
-        
+    
     def getStatsOfRepo(self, repoObj):
         stats = {}
         stats["name"] = repoObj["full_name"]
