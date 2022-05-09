@@ -30,7 +30,7 @@ def main():
 
     data_folder = os.path.join(cwd, "data")
 
-    for i in range(11,15):
+    for i in range(2, 5):
         df = pd.DataFrame()
         repos, err = gitC.getRepos(i)
         filename = f"{lang}_{min_star_count}_{max_star_count}_{i}.csv"
