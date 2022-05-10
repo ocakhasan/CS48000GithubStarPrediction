@@ -1,0 +1,101 @@
+,allow_forking,commit_count,contributor_count,created_at,forks,github_pages,license,name,open_issues,size,star_count,topics_count,total_issue_count,updated_at,url,watchers_count
+0,1.0,129,27,2015-12-13T18:34:17Z,133.0,1.0,Not Found,bhrigu123/classifier,27.0,96.0,979.0,2.0,34.0,2022-05-06T06:28:48Z,https://github.com/bhrigu123/classifier,979.0
+1,1.0,3416,12,2019-08-15T17:02:09Z,165.0,0.0,GNU General Public License v3.0,AIStream-Peelout/flow-forecast,90.0,4753.0,982.0,14.0,170.0,2022-05-09T08:20:41Z,https://github.com/AIStream-Peelout/flow-forecast,982.0
+2,1.0,115,23,2016-03-05T16:54:27Z,82.0,0.0,MIT License,chubin/pyphoon,6.0,108.0,993.0,0.0,12.0,2022-05-06T22:04:41Z,https://github.com/chubin/pyphoon,993.0
+3,1.0,35,3,2020-04-28T20:33:38Z,86.0,0.0,Not Found,justinpinkney/awesome-pretrained-stylegan2,12.0,207434.0,1012.0,0.0,21.0,2022-05-09T02:51:29Z,https://github.com/justinpinkney/awesome-pretrained-stylegan2,1012.0
+4,1.0,344,24,2017-05-25T20:39:04Z,99.0,0.0,Apache License 2.0,Netflix/repokid,10.0,1020.0,983.0,2.0,31.0,2022-05-09T14:53:30Z,https://github.com/Netflix/repokid,983.0
+5,1.0,366,23,2020-04-03T21:19:12Z,270.0,0.0,MIT License,alexgolec/tda-api,28.0,586.0,976.0,6.0,163.0,2022-05-09T05:31:58Z,https://github.com/alexgolec/tda-api,976.0
+6,1.0,96,6,2020-07-19T02:55:07Z,206.0,0.0,GNU General Public License v3.0,xuan32546/IOS13-SimulateTouch,37.0,22073.0,1026.0,4.0,67.0,2022-05-07T10:16:06Z,https://github.com/xuan32546/IOS13-SimulateTouch,1026.0
+7,1.0,367,3,2017-01-07T17:22:37Z,89.0,0.0,GNU Affero General Public License v3.0,glutanimate/review-heatmap,85.0,1077.0,1012.0,2.0,135.0,2022-05-09T10:04:18Z,https://github.com/glutanimate/review-heatmap,1012.0
+8,1.0,755,21,2020-04-21T18:57:10Z,186.0,0.0,Other,quic/aimet,132.0,6178.0,975.0,11.0,590.0,2022-05-07T07:49:28Z,https://github.com/quic/aimet,975.0
+9,1.0,777,75,2012-03-10T21:41:14Z,351.0,0.0,MIT License,pinax/django-user-accounts,65.0,983.0,989.0,0.0,180.0,2022-05-04T01:15:03Z,https://github.com/pinax/django-user-accounts,989.0
+10,1.0,189,16,2020-09-02T13:24:50Z,181.0,0.0,GNU General Public License v3.0,Orange-Cyberdefense/arsenal,1.0,119243.0,1006.0,0.0,10.0,2022-05-09T07:39:28Z,https://github.com/Orange-Cyberdefense/arsenal,1006.0
+11,1.0,11,3,2019-05-29T02:32:07Z,155.0,0.0,MIT License,clovaai/CutMix-PyTorch,5.0,203.0,994.0,5.0,42.0,2022-05-09T09:26:44Z,https://github.com/clovaai/CutMix-PyTorch,994.0
+12,1.0,703,3,2019-01-30T11:15:17Z,47.0,0.0,MIT License,alan-turing-institute/CleverCSV,7.0,2403.0,976.0,18.0,25.0,2022-05-07T05:16:52Z,https://github.com/alan-turing-institute/CleverCSV,976.0
+13,1.0,237,3,2019-12-15T07:28:16Z,142.0,1.0,MIT License,AdrMXR/KitHack,9.0,53371.0,975.0,16.0,19.0,2022-05-09T09:44:10Z,https://github.com/AdrMXR/KitHack,975.0
+14,1.0,3090,116,2020-05-13T11:28:52Z,207.0,0.0,Apache License 2.0,coreruleset/coreruleset,62.0,4347.0,993.0,3.0,2103.0,2022-05-09T13:01:10Z,https://github.com/coreruleset/coreruleset,993.0
+15,1.0,1140,16,2017-05-24T11:45:27Z,309.0,0.0,Other,shivasiddharth/GassistPi,32.0,20951.0,978.0,14.0,963.0,2022-05-03T05:40:00Z,https://github.com/shivasiddharth/GassistPi,978.0
+16,1.0,918,20,2019-03-26T13:43:32Z,91.0,0.0,MIT License,zalando-incubator/kopf,71.0,1690.0,974.0,8.0,190.0,2022-04-21T07:17:51Z,https://github.com/zalando-incubator/kopf,974.0
+17,1.0,61,14,2011-04-19T10:56:21Z,216.0,0.0,Other,serverdensity/python-daemon,12.0,73.0,974.0,0.0,17.0,2022-05-02T14:58:33Z,https://github.com/serverdensity/python-daemon,974.0
+18,1.0,338,38,2014-05-06T17:51:05Z,264.0,1.0,GNU Affero General Public License v3.0,drcoms/drcom-generic,43.0,1847.0,983.0,0.0,322.0,2022-05-05T12:48:16Z,https://github.com/drcoms/drcom-generic,983.0
+19,1.0,30,3,2019-10-24T09:46:33Z,252.0,0.0,GNU General Public License v3.0,Qianlitp/WatchAD,21.0,475.0,980.0,10.0,41.0,2022-05-06T13:32:35Z,https://github.com/Qianlitp/WatchAD,980.0
+20,1.0,56,2,2017-09-10T05:58:15Z,176.0,0.0,Not Found,sniklaus/sepconv-slomo,2.0,14878.0,975.0,5.0,51.0,2022-04-25T03:30:28Z,https://github.com/sniklaus/sepconv-slomo,975.0
+21,1.0,1261,53,2013-03-20T13:04:04Z,365.0,1.0,GNU General Public License v2.0,mushorg/conpot,103.0,2991.0,984.0,6.0,372.0,2022-05-08T17:12:20Z,https://github.com/mushorg/conpot,984.0
+22,1.0,1883,47,2016-11-15T00:29:01Z,191.0,1.0,Apache License 2.0,aws-ia/taskcat,37.0,7823.0,975.0,5.0,311.0,2022-05-05T00:23:20Z,https://github.com/aws-ia/taskcat,975.0
+23,1.0,44,2,2022-02-14T01:16:47Z,165.0,0.0,Not Found,4ra1n/JavaSecInterview,2.0,47.0,991.0,4.0,3.0,2022-05-09T13:17:15Z,https://github.com/4ra1n/JavaSecInterview,991.0
+24,1.0,302,120,2018-10-02T18:06:52Z,453.0,0.0,MIT License,hastagAB/Awesome-Python-Scripts,24.0,9863.0,1006.0,1.0,14.0,2022-05-08T16:38:03Z,https://github.com/hastagAB/Awesome-Python-Scripts,1006.0
+25,1.0,16,2,2019-04-07T15:48:49Z,260.0,0.0,Not Found,yuanxiaosc/Entity-Relation-Extraction,8.0,6109.0,986.0,6.0,76.0,2022-05-05T09:40:40Z,https://github.com/yuanxiaosc/Entity-Relation-Extraction,986.0
+26,1.0,95,3,2016-02-10T17:13:13Z,482.0,0.0,Other,xpleaf/Blog_mini,23.0,2233.0,970.0,0.0,43.0,2022-04-25T09:30:06Z,https://github.com/xpleaf/Blog_mini,970.0
+27,1.0,709,10,2011-11-16T18:16:08Z,44.0,0.0,MIT License,hayaku/hayaku,110.0,737.0,969.0,6.0,289.0,2022-05-05T21:52:29Z,https://github.com/hayaku/hayaku,969.0
+28,1.0,666,39,2014-02-19T23:57:57Z,287.0,0.0,MIT License,lingthio/Flask-User,125.0,2948.0,975.0,0.0,222.0,2022-05-08T00:21:22Z,https://github.com/lingthio/Flask-User,975.0
+29,1.0,216,8,2018-02-27T08:34:40Z,162.0,0.0,GNU General Public License v3.0,FeeiCN/ESD,7.0,4980.0,972.0,5.0,0.0,2022-05-05T06:04:33Z,https://github.com/FeeiCN/ESD,972.0
+30,1.0,444,8,2012-08-30T20:41:13Z,93.0,0.0,Not Found,kmike/pymorphy2,74.0,2873.0,973.0,0.0,0.0,2022-05-07T17:44:35Z,https://github.com/kmike/pymorphy2,973.0
+31,1.0,42,9,2016-07-28T11:51:37Z,273.0,0.0,Apache License 2.0,softScheck/tplink-smartplug,54.0,93.0,973.0,0.0,0.0,2022-04-25T08:35:14Z,https://github.com/softScheck/tplink-smartplug,973.0
+32,1.0,50,,2020-03-11T17:55:22Z,182.0,1.0,Not Found,alex04072000/ObstructionRemoval,14.0,601252.0,969.0,0.0,0.0,2022-04-27T01:37:20Z,https://github.com/alex04072000/ObstructionRemoval,969.0
+33,1.0,1866,41,2014-12-09T22:17:14Z,142.0,0.0,Other,blaze/odo,216.0,12281.0,973.0,0.0,0.0,2022-05-06T18:20:21Z,https://github.com/blaze/odo,973.0
+34,1.0,65,4,2019-03-07T05:58:09Z,148.0,0.0,Apache License 2.0,PolyAI-LDN/conversational-datasets,14.0,182.0,987.0,3.0,0.0,2022-05-05T07:48:05Z,https://github.com/PolyAI-LDN/conversational-datasets,987.0
+35,1.0,297,20,2014-10-27T12:25:51Z,203.0,1.0,Other,ibayer/fastFM,52.0,4886.0,979.0,4.0,0.0,2022-04-27T16:52:18Z,https://github.com/ibayer/fastFM,979.0
+36,1.0,41,8,2016-06-05T15:21:22Z,260.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",jealous/stockstats,9.0,396.0,992.0,0.0,0.0,2022-05-08T21:18:11Z,https://github.com/jealous/stockstats,992.0
+37,1.0,91,8,2019-11-25T10:03:38Z,148.0,0.0,GNU General Public License v3.0,tasmota/tasmotizer,31.0,429.0,981.0,6.0,0.0,2022-05-09T19:23:00Z,https://github.com/tasmota/tasmotizer,981.0
+38,1.0,30,,2017-09-05T11:54:38Z,403.0,0.0,Not Found,shiyybua/NER,69.0,5392.0,974.0,0.0,0.0,2022-05-09T02:43:06Z,https://github.com/shiyybua/NER,974.0
+39,1.0,8,3,2021-03-26T12:26:16Z,134.0,0.0,MIT License,autonomousvision/giraffe,1.0,30978.0,1008.0,7.0,0.0,2022-05-06T07:15:39Z,https://github.com/autonomousvision/giraffe,1008.0
+40,1.0,3156,92,2011-01-24T17:48:00Z,259.0,1.0,Other,enthought/mayavi,371.0,93945.0,982.0,0.0,0.0,2022-05-07T15:44:19Z,https://github.com/enthought/mayavi,982.0
+41,1.0,1891,60,2015-01-08T23:55:16Z,216.0,0.0,GNU General Public License v2.0,igraph/python-igraph,38.0,31759.0,968.0,0.0,0.0,2022-05-06T13:12:00Z,https://github.com/igraph/python-igraph,968.0
+42,1.0,245,10,2015-08-17T07:08:07Z,393.0,0.0,MIT License,gabrieleangeletti/Deep-Learning-TensorFlow,24.0,18435.0,969.0,2.0,60.0,2022-04-15T08:27:43Z,https://github.com/gabrieleangeletti/Deep-Learning-TensorFlow,969.0
+43,1.0,348,17,2014-12-25T06:54:09Z,86.0,0.0,MIT License,coleifer/walrus,0.0,612.0,977.0,6.0,146.0,2022-05-09T09:22:49Z,https://github.com/coleifer/walrus,977.0
+44,1.0,28,6,2012-10-22T06:18:58Z,414.0,0.0,Not Found,jseidl/GoldenEye,4.0,121.0,976.0,0.0,0.0,2022-05-09T10:31:09Z,https://github.com/jseidl/GoldenEye,976.0
+45,1.0,603,10,2018-06-08T18:42:09Z,120.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",pavlin-policar/openTSNE,3.0,64164.0,987.0,5.0,103.0,2022-05-09T02:39:12Z,https://github.com/pavlin-policar/openTSNE,987.0
+46,1.0,375,18,2016-06-17T15:01:52Z,32.0,0.0,MIT License,x64dbg/docs,13.0,519.0,965.0,0.0,69.0,2022-05-05T17:50:27Z,https://github.com/x64dbg/docs,965.0
+47,1.0,69,6,2019-11-24T15:39:06Z,144.0,0.0,GNU General Public License v3.0,s0md3v/Corsy,4.0,83.0,976.0,4.0,18.0,2022-05-06T06:58:53Z,https://github.com/s0md3v/Corsy,976.0
+48,1.0,28,3,2019-11-21T13:31:43Z,205.0,0.0,GNU General Public License v3.0,GOATmessi7/ASFF,50.0,2161.0,973.0,0.0,97.0,2022-05-08T13:25:25Z,https://github.com/GOATmessi7/ASFF,973.0
+49,1.0,1266,2,2017-05-28T23:49:48Z,262.0,0.0,Not Found,shunliz/Machine-Learning,0.0,52038.0,983.0,0.0,2.0,2022-05-06T11:09:20Z,https://github.com/shunliz/Machine-Learning,983.0
+50,1.0,105,15,2021-04-26T06:55:59Z,288.0,0.0,GNU General Public License v3.0,deepcam-cn/yolov5-face,65.0,6814.0,1023.0,10.0,139.0,2022-05-08T02:54:06Z,https://github.com/deepcam-cn/yolov5-face,1023.0
+51,1.0,442,13,2013-09-16T04:54:15Z,72.0,0.0,Apache License 2.0,rcaloras/bashhub-client,21.0,340.0,973.0,7.0,82.0,2022-05-09T18:10:30Z,https://github.com/rcaloras/bashhub-client,973.0
+52,1.0,225,20,2010-12-09T13:34:17Z,98.0,0.0,Other,pwaller/pyfiglet,18.0,2587.0,977.0,3.0,44.0,2022-05-09T20:36:19Z,https://github.com/pwaller/pyfiglet,977.0
+53,1.0,27,2,2017-04-17T12:57:45Z,352.0,0.0,Not Found,chenjiandongx/mzitu,3.0,10219.0,966.0,2.0,18.0,2022-05-02T15:33:13Z,https://github.com/chenjiandongx/mzitu,966.0
+54,1.0,1138,156,2015-05-05T21:56:50Z,318.0,0.0,Apache License 2.0,hvac/hvac,130.0,2120.0,969.0,5.0,324.0,2022-05-09T12:30:29Z,https://github.com/hvac/hvac,969.0
+55,1.0,35,7,2010-01-22T17:42:23Z,94.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",gregs1104/pgtune,12.0,69.0,970.0,0.0,15.0,2022-05-03T14:47:02Z,https://github.com/gregs1104/pgtune,970.0
+56,1.0,1868,64,2010-08-01T17:34:24Z,265.0,0.0,GNU General Public License v2.0,cinemagoer/cinemagoer,43.0,6026.0,969.0,17.0,257.0,2022-05-09T17:31:46Z,https://github.com/cinemagoer/cinemagoer,969.0
+57,1.0,754,15,2017-03-01T10:24:26Z,240.0,0.0,GNU General Public License v3.0,undertheseanlp/underthesea,29.0,150095.0,966.0,13.0,169.0,2022-05-05T09:04:08Z,https://github.com/undertheseanlp/underthesea,966.0
+58,1.0,33,3,2019-09-29T05:23:54Z,181.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",FunnyWolf/pystinger,5.0,134.0,972.0,3.0,10.0,2022-05-07T16:52:35Z,https://github.com/FunnyWolf/pystinger,972.0
+59,1.0,465,59,2021-07-12T23:15:48Z,103.0,1.0,"BSD 3-Clause ""New"" or ""Revised"" License",pytorch/torchrec,35.0,3189.0,963.0,7.0,22.0,2022-05-09T16:51:32Z,https://github.com/pytorch/torchrec,963.0
+60,1.0,507,16,2019-04-15T19:47:22Z,87.0,0.0,MIT License,videoflow/videoflow,18.0,9919.0,963.0,5.0,51.0,2022-04-19T12:17:35Z,https://github.com/videoflow/videoflow,963.0
+61,1.0,24,2,2017-09-21T04:48:33Z,259.0,0.0,MIT License,kenshohara/video-classification-3d-cnn-pytorch,38.0,158.0,972.0,7.0,63.0,2022-05-07T04:44:41Z,https://github.com/kenshohara/video-classification-3d-cnn-pytorch,972.0
+62,1.0,1163,44,2020-10-24T02:02:45Z,286.0,0.0,Apache License 2.0,ericaltendorf/plotman,200.0,1016.0,960.0,0.0,313.0,2022-05-09T17:03:58Z,https://github.com/ericaltendorf/plotman,960.0
+63,1.0,124,3,2016-08-12T14:13:30Z,408.0,1.0,Other,jermwatt/machine_learning_refined,0.0,557969.0,985.0,11.0,20.0,2022-05-09T12:32:52Z,https://github.com/jermwatt/machine_learning_refined,985.0
+64,1.0,3342,280,2012-09-13T07:49:10Z,241.0,0.0,GNU General Public License v3.0,projecthamster/hamster,121.0,10631.0,970.0,0.0,442.0,2022-05-04T07:02:47Z,https://github.com/projecthamster/hamster,970.0
+65,1.0,943,19,2017-12-13T18:11:20Z,223.0,0.0,Other,albermax/innvestigate,72.0,43546.0,975.0,0.0,228.0,2022-05-08T16:40:11Z,https://github.com/albermax/innvestigate,975.0
+66,1.0,159,8,2015-02-24T13:13:07Z,164.0,1.0,MIT License,andrea-cuttone/geoplotlib,31.0,26288.0,964.0,0.0,44.0,2022-05-09T10:21:06Z,https://github.com/andrea-cuttone/geoplotlib,964.0
+67,1.0,276,2,2019-12-18T14:55:40Z,185.0,1.0,MIT License,rachpt/lanzou-gui,25.0,2250.0,1063.0,6.0,0.0,2022-05-09T03:55:56Z,https://github.com/rachpt/lanzou-gui,1063.0
+68,1.0,167,,2020-10-15T02:27:45Z,433.0,0.0,Not Found,DLLXW/data-science-competition,17.0,8873.0,1005.0,0.0,32.0,2022-05-09T06:51:56Z,https://github.com/DLLXW/data-science-competition,1005.0
+69,1.0,8,2,2017-01-24T11:48:50Z,245.0,0.0,Not Found,lijiejie/ds_store_exp,7.0,7.0,977.0,0.0,5.0,2022-05-07T06:22:29Z,https://github.com/lijiejie/ds_store_exp,977.0
+70,1.0,191,19,2016-05-03T18:23:27Z,139.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",nccgroup/featherduster,28.0,786.0,967.0,10.0,65.0,2022-05-08T08:31:13Z,https://github.com/nccgroup/featherduster,967.0
+71,1.0,4906,209,2011-04-28T20:53:14Z,191.0,0.0,GNU General Public License v3.0,gpodder/gpodder,215.0,33344.0,960.0,0.0,702.0,2022-05-08T18:15:46Z,https://github.com/gpodder/gpodder,960.0
+72,1.0,55,6,2018-07-04T06:20:01Z,274.0,0.0,MIT License,YoYo000/MVSNet,64.0,6741.0,990.0,0.0,0.0,2022-05-09T13:52:39Z,https://github.com/YoYo000/MVSNet,990.0
+73,1.0,66,5,2020-01-07T18:16:24Z,111.0,1.0,Apache License 2.0,uber/fiber,20.0,8814.0,968.0,5.0,0.0,2022-05-08T21:01:00Z,https://github.com/uber/fiber,968.0
+74,1.0,20,5,2016-03-04T14:12:02Z,419.0,0.0,Not Found,jacobgil/keras-dcgan,25.0,852.0,969.0,6.0,0.0,2022-05-05T04:38:34Z,https://github.com/jacobgil/keras-dcgan,969.0
+75,1.0,112,3,2018-05-18T22:05:56Z,298.0,0.0,Not Found,makcedward/nlp,10.0,2297.0,968.0,5.0,0.0,2022-04-26T23:44:33Z,https://github.com/makcedward/nlp,968.0
+76,1.0,57,,2021-05-24T17:34:09Z,175.0,0.0,MIT License,kingyiusuen/image-to-latex,10.0,712.0,1005.0,8.0,0.0,2022-05-09T07:19:01Z,https://github.com/kingyiusuen/image-to-latex,1005.0
+77,1.0,449,15,2016-04-01T17:50:36Z,138.0,0.0,GNU General Public License v3.0,GoSecure/malboxes,26.0,490.0,961.0,7.0,0.0,2022-04-25T17:27:00Z,https://github.com/GoSecure/malboxes,961.0
+78,1.0,196,13,2019-08-12T07:35:46Z,179.0,0.0,MIT License,8080labs/pyforest,16.0,7592.0,967.0,0.0,0.0,2022-05-09T02:55:51Z,https://github.com/8080labs/pyforest,967.0
+79,1.0,9498,263,2012-03-09T15:31:09Z,347.0,1.0,GNU General Public License v2.0,rpm-software-management/dnf,18.0,56174.0,961.0,5.0,0.0,2022-05-03T23:19:39Z,https://github.com/rpm-software-management/dnf,961.0
+80,1.0,411,40,2009-11-16T02:35:47Z,136.0,1.0,MIT License,binarymatt/pyres,27.0,1379.0,956.0,0.0,0.0,2022-05-08T10:55:10Z,https://github.com/binarymatt/pyres,956.0
+81,1.0,21,2,2018-06-22T09:19:05Z,179.0,0.0,Other,wannabeOG/Mask-RCNN,16.0,70.0,963.0,0.0,0.0,2022-05-05T10:25:19Z,https://github.com/wannabeOG/Mask-RCNN,963.0
+82,1.0,58,5,2016-08-15T15:48:05Z,245.0,0.0,MIT License,altosaar/variational-autoencoder,1.0,94.0,969.0,13.0,0.0,2022-05-07T20:56:08Z,https://github.com/altosaar/variational-autoencoder,969.0
+83,1.0,193,3,2021-01-19T04:39:21Z,73.0,0.0,MIT License,fogleman/sdf,16.0,8419.0,958.0,7.0,0.0,2022-05-09T17:26:07Z,https://github.com/fogleman/sdf,958.0
+84,1.0,376,57,2012-05-03T16:38:39Z,145.0,1.0,"BSD 3-Clause ""New"" or ""Revised"" License",lepture/python-livereload,49.0,347.0,964.0,0.0,0.0,2022-05-08T21:51:27Z,https://github.com/lepture/python-livereload,964.0
+85,1.0,1055,138,2017-04-25T15:55:15Z,248.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",zostera/django-bootstrap4,26.0,916.0,961.0,3.0,0.0,2022-05-04T12:51:04Z,https://github.com/zostera/django-bootstrap4,961.0
+86,1.0,76,9,2012-08-31T03:39:45Z,188.0,0.0,Not Found,hubert3/iSniff-GPS,13.0,17607.0,959.0,0.0,0.0,2022-05-09T01:10:17Z,https://github.com/hubert3/iSniff-GPS,959.0
+87,1.0,60612,403,2015-02-23T14:18:06Z,785.0,0.0,Other,galaxyproject/galaxy,1873.0,582076.0,957.0,12.0,4578.0,2022-05-03T16:26:59Z,https://github.com/galaxyproject/galaxy,957.0
+88,1.0,750,84,2015-04-17T13:22:42Z,246.0,0.0,Apache License 2.0,zalando/spilo,61.0,17973.0,964.0,7.0,278.0,2022-05-09T11:13:27Z,https://github.com/zalando/spilo,964.0
+89,1.0,967,28,2020-12-11T14:07:30Z,76.0,0.0,Apache License 2.0,neuralmagic/sparseml,31.0,217707.0,956.0,20.0,76.0,2022-05-09T05:50:13Z,https://github.com/neuralmagic/sparseml,956.0
+90,1.0,670,10,2013-10-26T09:14:57Z,69.0,1.0,MIT License,buildinspace/peru,69.0,4119.0,959.0,5.0,194.0,2022-05-09T14:16:16Z,https://github.com/buildinspace/peru,959.0
+91,1.0,35,7,2014-08-25T16:18:51Z,149.0,0.0,Apache License 2.0,google/adb-sync,27.0,43.0,973.0,0.0,37.0,2022-05-07T15:39:30Z,https://github.com/google/adb-sync,973.0
+92,1.0,573,5,2021-12-06T02:49:49Z,206.0,0.0,GNU General Public License v3.0,78778443/QingScan,8.0,6272.0,964.0,0.0,18.0,2022-05-09T08:32:43Z,https://github.com/78778443/QingScan,964.0
+93,1.0,87,7,2017-07-25T07:00:31Z,48.0,0.0,Not Found,leukbaars/DreamUV,15.0,7717.0,978.0,0.0,19.0,2022-05-06T19:05:50Z,https://github.com/leukbaars/DreamUV,978.0
+94,1.0,7,2,2014-12-09T20:07:20Z,224.0,0.0,Not Found,neuroradiology/InsideReCaptcha,0.0,79.0,959.0,0.0,0.0,2022-05-09T03:06:24Z,https://github.com/neuroradiology/InsideReCaptcha,959.0
+95,1.0,125,11,2020-11-16T22:43:28Z,72.0,0.0,Apache License 2.0,google/atheris,3.0,367.0,955.0,0.0,20.0,2022-05-08T20:15:53Z,https://github.com/google/atheris,955.0
+96,1.0,252,11,2022-01-27T17:44:11Z,91.0,0.0,Not Found,pofey/movie_robot,6.0,3017.0,995.0,0.0,68.0,2022-05-09T14:43:41Z,https://github.com/pofey/movie_robot,995.0
+97,1.0,203,14,2014-03-29T21:10:49Z,309.0,1.0,MIT License,kevthehermit/RATDecoders,15.0,379.0,963.0,0.0,18.0,2022-05-09T12:29:00Z,https://github.com/kevthehermit/RATDecoders,963.0
+98,1.0,72,2,2019-12-29T04:33:10Z,125.0,0.0,Apache License 2.0,425776024/nlpcda,12.0,1221.0,1010.0,5.0,21.0,2022-05-09T09:22:09Z,https://github.com/425776024/nlpcda,1010.0
+99,1.0,381,23,2014-06-11T21:14:05Z,152.0,0.0,MIT License,pahaz/sshtunnel,49.0,782.0,963.0,3.0,171.0,2022-05-09T07:56:09Z,https://github.com/pahaz/sshtunnel,963.0

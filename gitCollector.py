@@ -1,8 +1,11 @@
-import sys
 import os
-import requests
-from typing import List
 import re
+import sys
+from typing import List
+
+import requests
+
+
 #https://docs.github.com/en/rest/reference/search
 class gitCollector ():
 
@@ -26,8 +29,8 @@ class gitCollector ():
         #params = {'q': f'=language:{self.lang}+stars:{self.stars}&order=desc&per_page=100&page={page}'}
         params = {
             'q': f'language:{self.lang}+stars:{self.stars}',
-            'per_page': 30,
-            'page': page
+            'per_page': 100,
+            'page': page,
         }
 
         payload_str = "&".join("%s=%s" % (k, v) for k, v in params.items())
