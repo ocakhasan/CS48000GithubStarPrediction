@@ -16,7 +16,7 @@ def main():
     if token == '':
         print("cannot get GITHUB token from, please declare STAR_GITHUB_TOKEN environment variable.")
         return
-
+#denem
     lang = "python"
     min_star_count = 100
     max_star_count = 1000
