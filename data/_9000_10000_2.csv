@@ -1,0 +1,101 @@
+,allow_forking,commit_count,contributor_count,created_at,forks,github_pages,license,name,open_issues,size,star_count,topics_count,total_issue_count,updated_at,url,watchers_count
+0,1.0,528,88,2013-11-06T22:06:17Z,1797.0,0.0,MIT License,kevinzhow/PNChart,177.0,676.0,9752.0,0.0,318.0,2022-05-15T15:09:25Z,https://github.com/kevinzhow/PNChart,9752.0
+1,1.0,293,44,2019-11-16T23:26:23Z,666.0,0.0,MIT License,slackhq/nebula,187.0,1716.0,9782.0,0.0,330.0,2022-05-26T06:40:59Z,https://github.com/slackhq/nebula,9782.0
+2,1.0,1464,112,2013-05-22T21:41:56Z,1156.0,1.0,Apache License 2.0,google/auto,78.0,18551.0,9742.0,0.0,446.0,2022-05-25T16:11:22Z,https://github.com/google/auto,9742.0
+3,1.0,7551,266,2017-03-04T08:16:33Z,932.0,0.0,Apache License 2.0,iterative/dvc,651.0,15462.0,9747.0,10.0,3677.0,2022-05-26T09:06:44Z,https://github.com/iterative/dvc,9747.0
+4,1.0,109,34,2020-12-08T20:56:26Z,373.0,0.0,Not Found,rocky-linux/rocky,47.0,146.0,9731.0,2.0,0.0,2022-05-23T16:15:05Z,https://github.com/rocky-linux/rocky,9731.0
+5,1.0,91,22,2013-08-05T12:54:19Z,423.0,0.0,MIT License,audreyfeldroy/favicon-cheat-sheet,47.0,329.0,9737.0,0.0,41.0,2022-05-26T05:44:13Z,https://github.com/audreyfeldroy/favicon-cheat-sheet,9737.0
+6,1.0,1204,97,2021-03-07T14:33:17Z,617.0,0.0,GNU General Public License v3.0,NvChad/NvChad,1.0,1087.0,9745.0,20.0,675.0,2022-05-26T07:24:46Z,https://github.com/NvChad/NvChad,9745.0
+7,1.0,557,154,2015-12-26T05:25:41Z,4557.0,1.0,MIT License,vuejs-templates/webpack,185.0,1246.0,9735.0,0.0,965.0,2022-05-26T04:42:19Z,https://github.com/vuejs-templates/webpack,9735.0
+8,1.0,1783,268,2013-11-07T17:25:51Z,985.0,0.0,MIT License,yargs/yargs,321.0,4839.0,9748.0,0.0,1129.0,2022-05-26T08:20:57Z,https://github.com/yargs/yargs,9748.0
+9,1.0,639,88,2019-01-24T13:04:18Z,472.0,0.0,MIT License,jaredpalmer/tsdx,204.0,3803.0,9725.0,9.0,558.0,2022-05-26T08:15:11Z,https://github.com/jaredpalmer/tsdx,9725.0
+10,1.0,612,19,2016-02-23T08:54:55Z,2153.0,0.0,Apache License 2.0,YoKeyword/Fragmentation,192.0,29343.0,9724.0,3.0,1223.0,2022-05-26T03:23:45Z,https://github.com/YoKeyword/Fragmentation,9724.0
+11,1.0,345,54,2015-10-16T23:56:39Z,4707.0,0.0,Creative Commons Zero v1.0 Universal,electron/electron-quick-start,14.0,875.0,9719.0,0.0,257.0,2022-05-26T07:57:30Z,https://github.com/electron/electron-quick-start,9719.0
+12,1.0,5382,282,2014-12-08T19:00:00Z,3354.0,1.0,Apache License 2.0,grpc/grpc-java,536.0,61350.0,9718.0,0.0,2887.0,2022-05-26T05:01:49Z,https://github.com/grpc/grpc-java,9718.0
+13,1.0,11487,1401,2016-05-03T03:36:05Z,4437.0,0.0,Apache License 2.0,kubernetes/community,179.0,68831.0,9718.0,1.0,1432.0,2022-05-26T07:08:22Z,https://github.com/kubernetes/community,9718.0
+14,1.0,667,23,2017-09-10T18:54:41Z,372.0,0.0,MIT License,pock/pock,14.0,19955.0,9723.0,7.0,508.0,2022-05-26T09:17:21Z,https://github.com/pock/pock,9723.0
+15,1.0,13191,183,2016-11-16T21:57:59Z,1305.0,0.0,GNU Affero General Public License v3.0,botpress/botpress,196.0,273649.0,9709.0,19.0,1650.0,2022-05-26T02:01:06Z,https://github.com/botpress/botpress,9709.0
+16,1.0,588,48,2015-03-24T04:17:24Z,950.0,0.0,Apache License 2.0,JakeWharton/RxBinding,46.0,1815.0,9705.0,0.0,255.0,2022-05-24T03:36:01Z,https://github.com/JakeWharton/RxBinding,9705.0
+17,1.0,323,53,2014-01-30T18:16:04Z,916.0,0.0,MIT License,expressjs/multer,227.0,5229.0,9860.0,0.0,908.0,2022-05-26T05:55:17Z,https://github.com/expressjs/multer,9860.0
+18,1.0,355,37,2015-11-20T16:11:51Z,2370.0,1.0,Creative Commons Attribution 4.0 International,lnishan/awesome-competitive-programming,17.0,7284.0,9722.0,12.0,30.0,2022-05-25T20:26:20Z,https://github.com/lnishan/awesome-competitive-programming,9722.0
+19,1.0,2498,328,2014-08-30T21:14:33Z,1168.0,1.0,MIT License,hyperium/hyper,172.0,8843.0,9695.0,3.0,1415.0,2022-05-26T08:45:04Z,https://github.com/hyperium/hyper,9695.0
+20,1.0,366,31,2015-12-10T17:03:36Z,594.0,0.0,MIT License,milligram/milligram,63.0,8656.0,9693.0,10.0,161.0,2022-05-26T06:15:35Z,https://github.com/milligram/milligram,9693.0
+21,1.0,367,36,2018-05-31T20:39:44Z,379.0,1.0,Apache License 2.0,Netflix/pollyjs,22.0,5124.0,9693.0,7.0,199.0,2022-05-26T08:18:55Z,https://github.com/Netflix/pollyjs,9693.0
+22,1.0,481,2,2019-06-28T11:26:57Z,1975.0,0.0,MIT License,blaCCkHatHacEEkr/PENTESTING-BIBLE,17.0,1499031.0,9709.0,20.0,17.0,2022-05-26T03:17:07Z,https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE,9709.0
+23,1.0,10523,114,2012-12-17T10:07:44Z,1753.0,0.0,Other,emqx/emqx,132.0,40389.0,9678.0,20.0,3236.0,2022-05-26T09:11:03Z,https://github.com/emqx/emqx,9678.0
+24,1.0,3517,430,2015-10-26T13:57:23Z,3521.0,1.0,Creative Commons Zero v1.0 Universal,ethereum/EIPs,110.0,22332.0,9672.0,0.0,0.0,2022-05-26T06:40:47Z,https://github.com/ethereum/EIPs,9672.0
+25,1.0,147,34,2012-07-06T14:06:34Z,1374.0,0.0,MIT License,robfig/cron,93.0,180.0,9672.0,0.0,0.0,2022-05-26T09:06:55Z,https://github.com/robfig/cron,9672.0
+26,1.0,5767,350,2013-10-24T15:46:04Z,1159.0,0.0,zlib License,raysan5/raylib,10.0,377899.0,9667.0,16.0,0.0,2022-05-26T09:15:55Z,https://github.com/raysan5/raylib,9667.0
+27,1.0,2678,243,2013-05-24T14:13:30Z,19384.0,1.0,MIT License,mmistakes/minimal-mistakes,31.0,45752.0,9692.0,8.0,0.0,2022-05-26T06:50:12Z,https://github.com/mmistakes/minimal-mistakes,9692.0
+28,1.0,90,17,2016-10-12T11:49:56Z,2142.0,0.0,Not Found,ruanyf/document-style-guide,0.0,69.0,9668.0,0.0,0.0,2022-05-26T09:12:16Z,https://github.com/ruanyf/document-style-guide,9668.0
+29,1.0,182,9,2014-11-13T03:13:10Z,2716.0,0.0,MIT License,liaohuqiu/android-Ultra-Pull-To-Refresh,172.0,3474.0,9652.0,0.0,0.0,2022-05-25T00:34:24Z,https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh,9652.0
+30,1.0,27955,1280,2011-03-09T18:52:03Z,4256.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",scipy/scipy,1760.0,147172.0,9660.0,5.0,0.0,2022-05-26T08:18:56Z,https://github.com/scipy/scipy,9660.0
+31,1.0,322,28,2013-12-29T07:53:44Z,4201.0,1.0,Not Found,matthieua/WOW,176.0,1058.0,9660.0,0.0,0.0,2022-05-23T21:10:46Z,https://github.com/matthieua/WOW,9660.0
+32,1.0,3443,197,2013-12-10T14:00:49Z,1217.0,0.0,GNU General Public License v3.0,CISOfy/lynis,73.0,7888.0,9672.0,20.0,0.0,2022-05-26T09:19:29Z,https://github.com/CISOfy/lynis,9672.0
+33,1.0,5670,369,2014-12-04T16:25:23Z,900.0,0.0,MIT License,stylelint/stylelint,148.0,24463.0,9659.0,13.0,0.0,2022-05-26T07:36:23Z,https://github.com/stylelint/stylelint,9659.0
+34,1.0,22065,603,2017-12-21T19:24:42Z,970.0,1.0,Other,rust-lang/rust-analyzer,1029.0,61563.0,9660.0,3.0,4874.0,2022-05-26T08:29:38Z,https://github.com/rust-lang/rust-analyzer,9660.0
+35,1.0,147,2,2018-05-14T05:48:19Z,6115.0,0.0,Apache License 2.0,macrozheng/mall-admin-web,23.0,1990.0,9655.0,6.0,116.0,2022-05-26T09:12:20Z,https://github.com/macrozheng/mall-admin-web,9655.0
+36,1.0,677,18,2015-11-12T20:08:53Z,486.0,1.0,MIT License,barbajs/barba,20.0,26737.0,9653.0,7.0,602.0,2022-05-26T08:59:39Z,https://github.com/barbajs/barba,9653.0
+37,1.0,381,51,2013-05-19T12:51:20Z,846.0,0.0,MIT License,dbader/schedule,125.0,341.0,9651.0,0.0,371.0,2022-05-25T13:41:26Z,https://github.com/dbader/schedule,9651.0
+38,1.0,2263,208,2018-04-20T14:49:09Z,2274.0,0.0,Apache License 2.0,dmlc/dgl,235.0,18095.0,9644.0,2.0,1477.0,2022-05-26T09:17:55Z,https://github.com/dmlc/dgl,9644.0
+39,1.0,380598,6676,2012-06-04T02:49:46Z,7801.0,0.0,MIT License,NixOS/nixpkgs,8591.0,2570031.0,9639.0,5.0,25787.0,2022-05-26T07:41:53Z,https://github.com/NixOS/nixpkgs,9639.0
+40,1.0,1930,138,2015-11-16T08:22:32Z,448.0,1.0,MIT License,reasonml/reason,474.0,23957.0,9659.0,5.0,1418.0,2022-05-25T11:26:21Z,https://github.com/reasonml/reason,9659.0
+41,1.0,239,18,2015-01-09T10:33:29Z,1410.0,0.0,Apache License 2.0,wasabeef/glide-transformations,54.0,26509.0,9635.0,6.0,154.0,2022-05-25T07:40:00Z,https://github.com/wasabeef/glide-transformations,9635.0
+42,1.0,423,147,2014-07-17T21:27:07Z,865.0,0.0,GNU General Public License v3.0,ellisonleao/magictools,1.0,1188.0,9666.0,15.0,60.0,2022-05-26T07:49:14Z,https://github.com/ellisonleao/magictools,9666.0
+43,1.0,598,20,2012-06-03T03:37:57Z,2746.0,1.0,MIT License,aui/art-template,83.0,3181.0,9633.0,6.0,593.0,2022-05-26T08:43:16Z,https://github.com/aui/art-template,9633.0
+44,1.0,1661,94,2012-04-19T13:05:41Z,1896.0,0.0,Apache License 2.0,josdejong/jsoneditor,201.0,54027.0,9639.0,0.0,962.0,2022-05-26T08:01:56Z,https://github.com/josdejong/jsoneditor,9639.0
+45,1.0,383,17,2014-11-08T14:45:20Z,2108.0,1.0,Apache License 2.0,ksoichiro/Android-ObservableScrollView,178.0,13780.0,9619.0,4.0,262.0,2022-05-26T03:28:16Z,https://github.com/ksoichiro/Android-ObservableScrollView,9619.0
+46,1.0,7837,206,2015-07-02T22:36:50Z,492.0,0.0,Other,FormidableLabs/victory,146.0,54401.0,9623.0,4.0,1568.0,2022-05-26T08:10:57Z,https://github.com/FormidableLabs/victory,9623.0
+47,1.0,8549,1861,2013-06-26T17:58:34Z,2900.0,0.0,Not Found,adambard/learnxinyminutes-docs,277.0,22216.0,9710.0,0.0,695.0,2022-05-25T19:52:10Z,https://github.com/adambard/learnxinyminutes-docs,9710.0
+48,1.0,2243,85,2012-07-12T06:47:55Z,1439.0,0.0,Other,haiwen/seafile,175.0,11898.0,9718.0,7.0,2107.0,2022-05-26T05:08:46Z,https://github.com/haiwen/seafile,9718.0
+49,1.0,609,15,2018-08-26T14:55:55Z,2832.0,1.0,GNU General Public License v3.0,hq450/fancyss,12.0,2844572.0,9614.0,11.0,1080.0,2022-05-26T08:20:13Z,https://github.com/hq450/fancyss,9614.0
+50,1.0,457,53,2013-07-18T06:23:33Z,924.0,1.0,Apache License 2.0,JakeWharton/timber,57.0,1590.0,9621.0,0.0,236.0,2022-05-26T05:45:48Z,https://github.com/JakeWharton/timber,9621.0
+51,1.0,97,7,2015-10-24T20:18:33Z,1881.0,0.0,Not Found,HarlonWang/AVLoadingIndicatorView,73.0,14399.0,9615.0,4.0,102.0,2022-05-26T03:28:50Z,https://github.com/HarlonWang/AVLoadingIndicatorView,9615.0
+52,1.0,1457,88,2012-12-15T10:26:54Z,1036.0,0.0,Other,svgdotjs/svg.js,91.0,11738.0,9634.0,4.0,1022.0,2022-05-26T07:02:17Z,https://github.com/svgdotjs/svg.js,9634.0
+53,1.0,108,7,2014-12-22T01:32:54Z,341.0,0.0,MIT License,majodev/google-webfonts-helper,89.0,275.0,9603.0,0.0,132.0,2022-05-26T08:56:58Z,https://github.com/majodev/google-webfonts-helper,9603.0
+54,1.0,1113,88,2016-06-17T22:41:53Z,1161.0,0.0,MIT License,vuematerial/vue-material,272.0,20190.0,9610.0,7.0,1640.0,2022-05-25T20:11:26Z,https://github.com/vuematerial/vue-material,9610.0
+55,1.0,871,89,2013-02-01T16:56:30Z,1259.0,1.0,Apache License 2.0,square/javapoet,136.0,1880.0,9621.0,0.0,394.0,2022-05-26T02:12:00Z,https://github.com/square/javapoet,9621.0
+56,1.0,4186,379,2009-11-04T22:19:17Z,1408.0,1.0,MIT License,teamcapybara/capybara,21.0,12579.0,9591.0,1.0,1491.0,2022-05-26T08:36:37Z,https://github.com/teamcapybara/capybara,9591.0
+57,1.0,57992,2247,2015-03-25T15:27:27Z,2971.0,1.0,GNU General Public License v2.0,systemd/systemd,1841.0,307839.0,9585.0,6.0,8798.0,2022-05-26T07:55:50Z,https://github.com/systemd/systemd,9585.0
+58,1.0,613,128,2016-03-31T12:05:53Z,2429.0,0.0,Other,tflearn/tflearn,567.0,1589.0,9579.0,6.0,910.0,2022-05-26T08:21:57Z,https://github.com/tflearn/tflearn,9579.0
+59,1.0,150,4,2018-04-17T08:44:17Z,2384.0,0.0,MIT License,vipstone/faceai,35.0,40473.0,9576.0,5.0,45.0,2022-05-26T09:06:40Z,https://github.com/vipstone/faceai,9576.0
+60,1.0,1489,74,2012-03-09T19:32:33Z,1592.0,1.0,MIT License,sdelements/lets-chat,254.0,21734.0,9577.0,0.0,566.0,2022-05-25T06:45:10Z,https://github.com/sdelements/lets-chat,9577.0
+61,1.0,28127,384,2011-08-10T03:48:06Z,2505.0,0.0,Other,Theano/Theano,683.0,68088.0,9579.0,0.0,2667.0,2022-05-25T14:32:18Z,https://github.com/Theano/Theano,9579.0
+62,1.0,1699,389,2015-04-01T00:54:40Z,3225.0,1.0,Not Found,react-native-camera/react-native-camera,98.0,17586.0,9562.0,4.0,2350.0,2022-05-25T07:04:50Z,https://github.com/react-native-camera/react-native-camera,9562.0
+63,1.0,314,22,2020-03-28T09:58:14Z,507.0,0.0,Apache License 2.0,aristocratos/bashtop,51.0,883.0,9580.0,0.0,181.0,2022-05-26T04:43:04Z,https://github.com/aristocratos/bashtop,9580.0
+64,1.0,253,31,2020-11-29T19:41:36Z,1533.0,0.0,Creative Commons Attribution Share Alike 4.0 International,ml-tooling/best-of-ml-python,0.0,8113.0,10015.0,19.0,0.0,2022-05-26T08:58:11Z,https://github.com/ml-tooling/best-of-ml-python,10015.0
+65,1.0,50788,333,2010-09-20T10:29:16Z,3644.0,0.0,Other,rabbitmq/rabbitmq-server,252.0,176569.0,9567.0,7.0,0.0,2022-05-26T03:11:48Z,https://github.com/rabbitmq/rabbitmq-server,9567.0
+66,1.0,11616,866,2016-02-17T08:00:23Z,2357.0,0.0,Apache License 2.0,apache/arrow,212.0,124290.0,9557.0,1.0,0.0,2022-05-25T19:36:11Z,https://github.com/apache/arrow,9557.0
+67,1.0,8518,216,2015-06-03T16:55:01Z,1904.0,0.0,Apache License 2.0,zaproxy/zaproxy,725.0,190880.0,9560.0,10.0,0.0,2022-05-26T06:40:25Z,https://github.com/zaproxy/zaproxy,9560.0
+68,1.0,4,,2016-06-03T02:15:58Z,1688.0,1.0,Not Found,vue-bulma/vue-admin,105.0,176712.0,9554.0,0.0,0.0,2022-05-24T01:08:46Z,https://github.com/vue-bulma/vue-admin,9554.0
+69,1.0,54,10,2013-09-12T14:07:28Z,2161.0,1.0,Not Found,peachananr/onepage-scroll,277.0,261.0,9554.0,0.0,0.0,2022-05-26T04:42:37Z,https://github.com/peachananr/onepage-scroll,9554.0
+70,1.0,1863,159,2012-09-26T20:56:59Z,2746.0,1.0,MIT License,snapappointments/bootstrap-select,257.0,8973.0,9555.0,7.0,0.0,2022-05-25T11:06:58Z,https://github.com/snapappointments/bootstrap-select,9555.0
+71,1.0,8025,279,2016-06-08T04:14:34Z,1916.0,0.0,MIT License,lvgl/lvgl,47.0,92219.0,9564.0,7.0,0.0,2022-05-26T09:19:33Z,https://github.com/lvgl/lvgl,9564.0
+72,1.0,1644,184,2008-12-19T08:31:03Z,826.0,0.0,MIT License,swiftmailer/swiftmailer,0.0,9247.0,9538.0,4.0,0.0,2022-05-25T23:00:38Z,https://github.com/swiftmailer/swiftmailer,9538.0
+73,1.0,2533,442,2010-08-02T14:25:08Z,1218.0,0.0,MIT License,ruby-grape/grape,232.0,5888.0,9540.0,3.0,1067.0,2022-05-25T15:59:42Z,https://github.com/ruby-grape/grape,9540.0
+74,1.0,3934,229,2016-06-15T11:58:01Z,1828.0,1.0,MIT License,wix/Detox,156.0,39890.0,9530.0,11.0,2102.0,2022-05-26T04:12:56Z,https://github.com/wix/Detox,9530.0
+75,1.0,843,26,2012-11-14T13:43:27Z,1461.0,0.0,Not Found,DeathKing/Learning-SICP,8.0,9080.0,9528.0,6.0,66.0,2022-05-26T08:25:48Z,https://github.com/DeathKing/Learning-SICP,9528.0
+76,1.0,180,25,2019-06-03T16:05:25Z,1074.0,0.0,MIT License,kefranabg/readme-md-generator,29.0,2627.0,9546.0,7.0,97.0,2022-05-26T03:15:51Z,https://github.com/kefranabg/readme-md-generator,9546.0
+77,1.0,129,23,2015-08-14T03:15:35Z,2306.0,0.0,Not Found,ruanyf/webpack-demos,0.0,953.0,9523.0,0.0,64.0,2022-05-26T08:22:23Z,https://github.com/ruanyf/webpack-demos,9523.0
+78,1.0,1745,63,2013-01-20T01:50:30Z,702.0,0.0,GNU General Public License v3.0,zealdocs/zeal,196.0,5363.0,9537.0,11.0,1168.0,2022-05-26T09:13:11Z,https://github.com/zealdocs/zeal,9537.0
+79,1.0,4174,72,2019-04-03T19:14:29Z,1708.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",acidanthera/OpenCorePkg,7.0,191049.0,9522.0,0.0,0.0,2022-05-26T08:19:03Z,https://github.com/acidanthera/OpenCorePkg,9522.0
+80,1.0,123469,1717,2011-02-25T05:53:47Z,4510.0,0.0,MIT License,cdnjs/cdnjs,10.0,26451658.0,9506.0,17.0,5851.0,2022-05-26T08:30:39Z,https://github.com/cdnjs/cdnjs,9506.0
+81,1.0,591,42,2012-05-26T16:08:48Z,3982.0,0.0,Other,PowerShellMafia/PowerSploit,105.0,10719.0,9520.0,0.0,188.0,2022-05-26T05:26:02Z,https://github.com/PowerShellMafia/PowerSploit,9520.0
+82,1.0,7214,191,2012-07-22T18:49:24Z,1356.0,0.0,Other,RetroPie/RetroPie-Setup,86.0,23293.0,9495.0,4.0,1688.0,2022-05-26T06:09:39Z,https://github.com/RetroPie/RetroPie-Setup,9495.0
+83,1.0,1523,165,2008-05-08T15:27:26Z,1252.0,1.0,MIT License,Shopify/liquid,275.0,5356.0,9546.0,0.0,748.0,2022-05-26T04:42:27Z,https://github.com/Shopify/liquid,9546.0
+84,1.0,20780,416,2014-08-11T15:51:42Z,1767.0,1.0,Apache License 2.0,matrix-org/synapse,1392.0,209754.0,9488.0,3.0,5175.0,2022-05-25T15:06:03Z,https://github.com/matrix-org/synapse,9488.0
+85,1.0,1742,27,2012-08-04T17:59:25Z,1717.0,1.0,Other,coolwanglu/pdf2htmlEX,245.0,137050.0,9495.0,0.0,686.0,2022-05-26T08:46:51Z,https://github.com/coolwanglu/pdf2htmlEX,9495.0
+86,1.0,185,33,2016-08-15T18:35:30Z,39.0,0.0,MIT License,php-fig/container,4.0,336.0,9487.0,0.0,20.0,2022-05-25T23:00:57Z,https://github.com/php-fig/container,9487.0
+87,1.0,1458,14,2017-01-10T00:53:17Z,873.0,0.0,GNU General Public License v3.0,TranslucentTB/TranslucentTB,103.0,11358.0,9479.0,11.0,551.0,2022-05-26T09:13:29Z,https://github.com/TranslucentTB/TranslucentTB,9479.0
+88,1.0,383,70,2016-11-01T23:50:27Z,748.0,0.0,Not Found,terkelg/awesome-creative-coding,21.0,927.0,9491.0,17.0,15.0,2022-05-26T08:24:54Z,https://github.com/terkelg/awesome-creative-coding,9491.0
+89,1.0,210,31,2016-07-20T07:36:28Z,1187.0,0.0,Other,mdbootstrap/material-design-for-bootstrap,26.0,11158.0,9463.0,16.0,241.0,2022-05-23T17:06:37Z,https://github.com/mdbootstrap/material-design-for-bootstrap,9463.0
+90,1.0,1672,115,2009-12-19T01:29:58Z,2015.0,0.0,MIT License,jhy/jsoup,118.0,4485.0,9471.0,10.0,1275.0,2022-05-26T06:16:49Z,https://github.com/jhy/jsoup,9471.0
+91,1.0,21298,324,2011-09-09T01:36:42Z,3757.0,1.0,Apache License 2.0,apereo/cas,3.0,309375.0,9463.0,20.0,0.0,2022-05-26T07:27:31Z,https://github.com/apereo/cas,9463.0
+92,1.0,3417,192,2010-06-29T20:03:33Z,1399.0,1.0,Not Found,clojure/clojure,0.0,17702.0,9493.0,0.0,0.0,2022-05-25T20:27:13Z,https://github.com/clojure/clojure,9493.0
+93,1.0,278,82,2017-03-01T21:28:30Z,974.0,0.0,MIT License,felipefialho/frontend-challenges,0.0,309.0,9482.0,7.0,21.0,2022-05-26T03:53:13Z,https://github.com/felipefialho/frontend-challenges,9482.0
+94,1.0,74,22,2014-06-03T05:04:12Z,2622.0,0.0,MIT License,fullstackio/FlappySwift,14.0,232.0,9463.0,0.0,26.0,2022-05-24T05:57:57Z,https://github.com/fullstackio/FlappySwift,9463.0
+95,1.0,8120,79,2011-01-04T15:32:04Z,667.0,1.0,"BSD 2-Clause ""Simplified"" License",StylishThemes/GitHub-Dark,50.0,101294.0,9453.0,8.0,1056.0,2022-05-24T02:48:16Z,https://github.com/StylishThemes/GitHub-Dark,9453.0
+96,1.0,949,79,2012-11-22T08:49:24Z,843.0,1.0,MIT License,gleitz/howdoi,27.0,28071.0,9488.0,0.0,245.0,2022-05-25T19:59:04Z,https://github.com/gleitz/howdoi,9488.0
+97,1.0,1912,252,2015-07-07T00:57:25Z,1064.0,1.0,Mozilla Public License 2.0,rust-lang/mdBook,372.0,5132.0,9497.0,0.0,928.0,2022-05-26T00:06:46Z,https://github.com/rust-lang/mdBook,9497.0
+98,1.0,653,35,2014-06-28T09:31:42Z,402.0,0.0,Apache License 2.0,addyosmani/critical,40.0,4814.0,9481.0,6.0,325.0,2022-05-25T14:21:10Z,https://github.com/addyosmani/critical,9481.0
+99,1.0,8228,447,2010-01-07T12:50:50Z,1727.0,1.0,Apache License 2.0,mongodb/node-mongodb-native,19.0,137178.0,9441.0,0.0,0.0,2022-05-25T21:00:48Z,https://github.com/mongodb/node-mongodb-native,9441.0

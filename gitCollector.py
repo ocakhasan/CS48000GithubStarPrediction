@@ -27,8 +27,13 @@ class gitCollector ():
             'accept': 'application/vnd.github.v3+json'
         }
         #params = {'q': f'=language:{self.lang}+stars:{self.stars}&order=desc&per_page=100&page={page}'}
+
+        query = f'stars:{self.stars}'
+        if self.lang != "":
+            query = f'language:{self.lang}+stars:{self.stars}'
+
         params = {
-            'q': f'language:{self.lang}+stars:{self.stars}',
+            'q': query,
             'per_page': 100,
             'page': page,
         }

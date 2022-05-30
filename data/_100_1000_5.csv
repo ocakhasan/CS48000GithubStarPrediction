@@ -1,0 +1,85 @@
+,allow_forking,commit_count,contributor_count,created_at,forks,github_pages,license,name,open_issues,size,star_count,topics_count,total_issue_count,updated_at,url,watchers_count
+0,1.0,1773,59,2015-04-19T20:09:26Z,732.0,0.0,"BSD 2-Clause ""Simplified"" License",insidegui/WWDC,33.0,449097.0,8185.0,8.0,353.0,2022-05-26T08:26:06Z,https://github.com/insidegui/WWDC,8185.0
+1,1.0,406,58,2015-12-07T02:40:42Z,340.0,0.0,MIT License,guarinogabriel/Mac-CLI,19.0,11684.0,8210.0,0.0,96.0,2022-05-25T00:32:38Z,https://github.com/guarinogabriel/Mac-CLI,8210.0
+2,1.0,253,20,2014-01-04T02:50:20Z,543.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",jroimartin/gocui,71.0,256.0,8183.0,4.0,155.0,2022-05-26T09:01:48Z,https://github.com/jroimartin/gocui,8183.0
+3,1.0,2421,31,2014-09-03T23:49:51Z,833.0,1.0,Apache License 2.0,google/sanitizers,456.0,47666.0,8187.0,0.0,1479.0,2022-05-26T06:08:07Z,https://github.com/google/sanitizers,8187.0
+4,1.0,3885,199,2016-06-27T04:38:18Z,2100.0,0.0,MIT License,DeviaVir/zenbot,294.0,31256.0,8181.0,6.0,1170.0,2022-05-26T07:25:08Z,https://github.com/DeviaVir/zenbot,8181.0
+5,1.0,3958,481,2011-02-22T18:03:45Z,284.0,0.0,MIT License,symfony/http-foundation,3.0,6065.0,8174.0,6.0,0.0,2022-05-25T23:00:40Z,https://github.com/symfony/http-foundation,8174.0
+6,1.0,3645,117,2010-06-19T07:36:13Z,1939.0,0.0,MIT License,FineUploader/fine-uploader,123.0,39501.0,8173.0,11.0,1692.0,2022-05-25T13:17:50Z,https://github.com/FineUploader/fine-uploader,8173.0
+7,1.0,1054,50,2019-08-10T21:28:21Z,500.0,1.0,Apache License 2.0,coil-kt/coil,20.0,121643.0,8172.0,9.0,513.0,2022-05-26T02:52:19Z,https://github.com/coil-kt/coil,8172.0
+8,1.0,1,,2012-12-27T09:23:49Z,3597.0,0.0,Not Found,shadowsocks/shadowsocks-iOS,170.0,13127.0,8169.0,0.0,334.0,2022-05-26T08:07:06Z,https://github.com/shadowsocks/shadowsocks-iOS,8169.0
+9,1.0,1730,74,2013-03-27T18:05:40Z,624.0,1.0,Apache License 2.0,google/traceur-compiler,298.0,27487.0,8167.0,0.0,1092.0,2022-05-26T08:21:06Z,https://github.com/google/traceur-compiler,8167.0
+10,1.0,302,10,2017-03-11T07:16:09Z,1582.0,0.0,Apache License 2.0,huanghaibin-dev/CalendarView,420.0,126397.0,8257.0,7.0,782.0,2022-05-25T11:25:41Z,https://github.com/huanghaibin-dev/CalendarView,8257.0
+11,1.0,44,16,2019-12-30T08:48:54Z,207.0,0.0,Not Found,luruke/browser-2020,12.0,2343.0,8164.0,0.0,0.0,2022-05-26T02:38:52Z,https://github.com/luruke/browser-2020,8164.0
+12,1.0,132,29,2013-08-21T22:44:53Z,960.0,0.0,MIT License,path/FastImageCache,37.0,1744.0,8163.0,0.0,0.0,2022-05-21T03:03:28Z,https://github.com/path/FastImageCache,8163.0
+13,1.0,2725,20,2016-11-30T23:24:21Z,689.0,0.0,GNU Affero General Public License v3.0,devhubapp/devhub,38.0,121209.0,8159.0,20.0,0.0,2022-05-26T08:25:38Z,https://github.com/devhubapp/devhub,8159.0
+14,1.0,1093,83,2014-07-09T06:02:50Z,547.0,0.0,Other,Masterminds/glide,417.0,2292.0,8150.0,4.0,0.0,2022-05-25T14:08:43Z,https://github.com/Masterminds/glide,8150.0
+15,1.0,273,48,2014-05-27T04:09:47Z,4395.0,0.0,MIT License,rougier/numpy-100,37.0,499.0,8264.0,5.0,0.0,2022-05-26T04:20:24Z,https://github.com/rougier/numpy-100,8264.0
+16,1.0,55,10,2021-03-25T12:42:36Z,1375.0,0.0,MIT License,microsoft/Swin-Transformer,85.0,1034.0,8260.0,8.0,0.0,2022-05-26T08:33:54Z,https://github.com/microsoft/Swin-Transformer,8260.0
+17,1.0,1940,89,2012-08-22T11:36:52Z,1714.0,0.0,MIT License,YOURLS/YOURLS,41.0,33798.0,8143.0,9.0,0.0,2022-05-26T06:51:54Z,https://github.com/YOURLS/YOURLS,8143.0
+18,1.0,21496,392,2015-06-12T21:48:33Z,2272.0,0.0,Other,termux/termux-packages,354.0,54201.0,8137.0,5.0,0.0,2022-05-26T06:08:10Z,https://github.com/termux/termux-packages,8137.0
+19,1.0,2211,216,2017-08-08T14:59:33Z,3132.0,0.0,MIT License,NG-ZORRO/ng-zorro-antd,667.0,17230.0,8134.0,15.0,0.0,2022-05-26T08:20:14Z,https://github.com/NG-ZORRO/ng-zorro-antd,8134.0
+20,1.0,34,3,2016-08-27T10:28:10Z,1812.0,1.0,Not Found,helloqingfeng/Awsome-Front-End-learning-resource,5.0,75552.0,8146.0,5.0,0.0,2022-05-26T07:47:00Z,https://github.com/helloqingfeng/Awsome-Front-End-learning-resource,8146.0
+21,1.0,1009,126,2013-11-14T22:25:24Z,652.0,1.0,Creative Commons Zero v1.0 Universal,jnv/lists,0.0,17915.0,8130.0,5.0,0.0,2022-05-25T15:56:42Z,https://github.com/jnv/lists,8130.0
+22,1.0,1290,191,2017-05-04T03:42:52Z,1457.0,0.0,Not Found,jojoldu/junior-recruit-scheduler,9.0,13734.0,8166.0,0.0,27.0,2022-05-26T08:33:33Z,https://github.com/jojoldu/junior-recruit-scheduler,8166.0
+23,1.0,781,72,2018-03-02T21:12:37Z,632.0,1.0,Creative Commons Attribution 4.0 International,Lissy93/personal-security-checklist,31.0,33751.0,8144.0,14.0,71.0,2022-05-26T08:22:33Z,https://github.com/Lissy93/personal-security-checklist,8144.0
+24,1.0,85542,473,2015-05-16T14:14:58Z,1275.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",dart-lang/sdk,6525.0,1203854.0,8129.0,4.0,48013.0,2022-05-26T07:35:22Z,https://github.com/dart-lang/sdk,8129.0
+25,1.0,15035,442,2017-07-18T20:41:16Z,1814.0,1.0,Apache License 2.0,OpenMined/PySyft,348.0,330407.0,8127.0,9.0,3096.0,2022-05-25T14:58:43Z,https://github.com/OpenMined/PySyft,8127.0
+26,1.0,2784,11,2014-02-17T23:44:00Z,735.0,0.0,Other,andlabs/ui,122.0,37982.0,8127.0,0.0,357.0,2022-05-26T06:52:51Z,https://github.com/andlabs/ui,8127.0
+27,1.0,562,35,2013-06-30T18:29:18Z,1076.0,0.0,MIT License,sloria/TextBlob,104.0,7872.0,8163.0,7.0,245.0,2022-05-26T09:00:35Z,https://github.com/sloria/TextBlob,8163.0
+28,1.0,491,63,2016-01-22T23:19:59Z,840.0,1.0,The Unlicense,text-mask/text-mask,304.0,5325.0,8131.0,7.0,680.0,2022-05-25T18:49:57Z,https://github.com/text-mask/text-mask,8131.0
+29,1.0,1049,71,2017-11-12T03:21:48Z,2989.0,0.0,Not Found,easzlab/kubeasz,387.0,3961.0,8122.0,9.0,948.0,2022-05-26T02:18:34Z,https://github.com/easzlab/kubeasz,8122.0
+30,1.0,8417,752,2016-10-12T22:20:28Z,2526.0,0.0,Apache License 2.0,apache/tvm,447.0,65040.0,8120.0,13.0,2340.0,2022-05-26T08:49:26Z,https://github.com/apache/tvm,8120.0
+31,1.0,34561,558,2014-07-30T20:04:05Z,4710.0,0.0,Apache License 2.0,openshift/origin,207.0,1197303.0,8119.0,12.0,8933.0,2022-05-26T08:55:44Z,https://github.com/openshift/origin,8119.0
+32,1.0,2531,215,2012-04-24T18:46:30Z,1309.0,0.0,MIT License,sass/node-sass,160.0,25493.0,8132.0,5.0,2302.0,2022-05-26T03:13:49Z,https://github.com/sass/node-sass,8132.0
+33,1.0,404,122,2014-08-22T00:54:48Z,1503.0,0.0,MIT License,sbilly/awesome-security,9.0,1583.0,8250.0,2.0,17.0,2022-05-25T19:08:53Z,https://github.com/sbilly/awesome-security,8250.0
+34,1.0,1411,26,2020-07-29T05:47:01Z,1602.0,0.0,Apache License 2.0,sogou/workflow,17.0,4051.0,8128.0,8.0,286.0,2022-05-26T08:33:16Z,https://github.com/sogou/workflow,8128.0
+35,1.0,2283,206,2020-05-23T20:53:18Z,939.0,0.0,Not Found,pittcsc/Summer2022-Internships,3.0,1929.0,8143.0,2.0,169.0,2022-05-26T00:45:25Z,https://github.com/pittcsc/Summer2022-Internships,8143.0
+36,1.0,1180,93,2016-04-26T17:13:27Z,7387.0,0.0,Apache License 2.0,firebase/quickstart-android,32.0,31223.0,8116.0,2.0,739.0,2022-05-25T03:02:34Z,https://github.com/firebase/quickstart-android,8116.0
+37,1.0,296,28,2013-01-01T19:34:16Z,1104.0,0.0,MIT License,prasmussen/gdrive,394.0,498.0,8155.0,0.0,556.0,2022-05-26T08:14:01Z,https://github.com/prasmussen/gdrive,8155.0
+38,1.0,130,21,2015-11-24T05:45:27Z,386.0,1.0,MIT License,solid/solid,141.0,212.0,8115.0,1.0,211.0,2022-05-25T20:11:12Z,https://github.com/solid/solid,8115.0
+39,1.0,269,6,2015-08-09T23:09:58Z,3141.0,0.0,Other,GoesToEleven/GolangTraining,39.0,41659.0,8157.0,0.0,24.0,2022-05-26T08:18:20Z,https://github.com/GoesToEleven/GolangTraining,8157.0
+40,1.0,201,15,2021-12-02T12:49:41Z,353.0,0.0,Other,zinclabs/zinc,22.0,7958.0,8122.0,12.0,81.0,2022-05-26T08:55:07Z,https://github.com/zinclabs/zinc,8122.0
+41,1.0,946,26,2013-04-17T11:54:09Z,1840.0,1.0,Apache License 2.0,rawgraphs/rawgraphs-app,68.0,52652.0,8133.0,9.0,271.0,2022-05-26T07:39:24Z,https://github.com/rawgraphs/rawgraphs-app,8133.0
+42,1.0,1028,51,2021-05-14T07:30:56Z,289.0,0.0,Apache License 2.0,lima-vm/lima,127.0,1641.0,8111.0,4.0,328.0,2022-05-26T08:24:12Z,https://github.com/lima-vm/lima,8111.0
+43,1.0,546,61,2014-09-04T13:56:38Z,374.0,0.0,MIT License,Shopify/toxiproxy,62.0,3324.0,8104.0,9.0,157.0,2022-05-25T14:14:27Z,https://github.com/Shopify/toxiproxy,8104.0
+44,1.0,2229,138,2014-03-13T00:39:38Z,604.0,0.0,MIT License,pre-commit/pre-commit,18.0,3638.0,8169.0,5.0,1465.0,2022-05-26T07:19:21Z,https://github.com/pre-commit/pre-commit,8169.0
+45,1.0,207,28,2014-05-19T09:18:38Z,305.0,0.0,MIT License,tmux-plugins/tpm,90.0,201.0,8097.0,0.0,159.0,2022-05-26T06:56:08Z,https://github.com/tmux-plugins/tpm,8097.0
+46,1.0,2689,33,2015-12-12T01:21:39Z,535.0,0.0,Apache License 2.0,goplus/gop,35.0,21738.0,8093.0,10.0,440.0,2022-05-26T08:29:25Z,https://github.com/goplus/gop,8093.0
+47,1.0,4854,104,2018-04-24T15:56:54Z,822.0,0.0,Other,gitpod-io/gitpod,934.0,47511.0,8094.0,17.0,6125.0,2022-05-26T09:00:55Z,https://github.com/gitpod-io/gitpod,8094.0
+48,1.0,1787,155,2013-08-16T19:48:39Z,3446.0,1.0,Apache License 2.0,googleapis/google-api-php-client,91.0,10532.0,8088.0,0.0,1565.0,2022-05-25T04:23:57Z,https://github.com/googleapis/google-api-php-client,8088.0
+49,1.0,1201,50,2016-03-04T23:07:44Z,503.0,0.0,MIT License,tidwall/tile38,121.0,48331.0,8118.0,7.0,483.0,2022-05-25T13:51:21Z,https://github.com/tidwall/tile38,8118.0
+50,1.0,2063,81,2012-12-18T19:31:14Z,1176.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",dnschneid/crouton,57.0,22907.0,8093.0,9.0,4182.0,2022-05-25T10:16:31Z,https://github.com/dnschneid/crouton,8093.0
+51,1.0,2843,259,2011-02-06T19:07:12Z,1291.0,0.0,Apache License 2.0,ninja-build/ninja,325.0,4331.0,8096.0,0.0,849.0,2022-05-26T05:41:19Z,https://github.com/ninja-build/ninja,8096.0
+52,1.0,2781,47,2014-06-22T23:54:34Z,472.0,0.0,GNU General Public License v3.0,uBlock-LLC/uBlock,371.0,88882.0,8076.0,9.0,0.0,2022-05-26T08:53:11Z,https://github.com/uBlock-LLC/uBlock,8076.0
+53,1.0,36290,109,2015-01-11T17:17:12Z,1212.0,0.0,"BSD 3-Clause ""New"" or ""Revised"" License",keybase/client,3948.0,636025.0,8076.0,8.0,0.0,2022-05-26T08:35:03Z,https://github.com/keybase/client,8076.0
+54,1.0,674,70,2016-11-20T12:18:45Z,2061.0,0.0,MIT License,angristan/openvpn-install,106.0,596.0,8116.0,12.0,0.0,2022-05-25T04:02:30Z,https://github.com/angristan/openvpn-install,8116.0
+55,1.0,686,39,2021-08-20T17:12:55Z,192.0,0.0,MIT License,BuilderIO/partytown,46.0,5301.0,8087.0,11.0,0.0,2022-05-26T08:07:00Z,https://github.com/BuilderIO/partytown,8087.0
+56,1.0,624,51,2009-08-24T00:53:39Z,1000.0,0.0,GNU General Public License v2.0,sitaramc/gitolite,6.0,3102.0,8073.0,0.0,0.0,2022-05-26T02:43:58Z,https://github.com/sitaramc/gitolite,8073.0
+57,1.0,9571,336,2011-11-03T12:43:55Z,649.0,1.0,The Unlicense,mawww/kakoune,804.0,41629.0,8067.0,6.0,0.0,2022-05-26T07:40:12Z,https://github.com/mawww/kakoune,8067.0
+58,1.0,1009,111,2011-02-22T18:02:40Z,68.0,0.0,MIT License,symfony/event-dispatcher,4.0,990.0,8061.0,8.0,0.0,2022-05-25T23:00:40Z,https://github.com/symfony/event-dispatcher,8061.0
+59,1.0,1214,33,2017-02-28T06:31:43Z,1520.0,1.0,Apache License 2.0,alibaba/atlas,85.0,84497.0,8063.0,3.0,0.0,2022-05-25T00:33:08Z,https://github.com/alibaba/atlas,8063.0
+60,1.0,1019,211,2013-06-26T23:28:16Z,1680.0,0.0,Apache License 2.0,OpenFeign/feign,149.0,4251.0,8069.0,7.0,0.0,2022-05-25T13:41:47Z,https://github.com/OpenFeign/feign,8069.0
+61,1.0,20,4,2015-02-21T12:46:17Z,662.0,0.0,Not Found,bendc/frontend-guidelines,2.0,22.0,8056.0,0.0,0.0,2022-05-25T14:06:20Z,https://github.com/bendc/frontend-guidelines,8056.0
+62,1.0,142,31,2018-12-13T14:11:42Z,408.0,0.0,GNU Lesser General Public License v3.0,bloomrpc/bloomrpc,155.0,46918.0,8071.0,5.0,0.0,2022-05-26T08:33:48Z,https://github.com/bloomrpc/bloomrpc,8071.0
+63,1.0,633,104,2015-05-07T09:10:36Z,545.0,0.0,Not Found,ctjhoa/rust-learning,2.0,1119.0,8083.0,8.0,0.0,2022-05-26T02:03:55Z,https://github.com/ctjhoa/rust-learning,8083.0
+64,1.0,5708,61,2015-04-18T11:21:57Z,1529.0,0.0,Not Found,cheat-engine/cheat-engine,677.0,74817.0,8067.0,0.0,0.0,2022-05-26T05:24:10Z,https://github.com/cheat-engine/cheat-engine,8067.0
+65,1.0,302,18,2020-05-08T16:14:10Z,334.0,0.0,GNU General Public License v3.0,hediet/vscode-drawio,66.0,11318.0,8148.0,4.0,210.0,2022-05-26T08:20:55Z,https://github.com/hediet/vscode-drawio,8148.0
+66,1.0,14514,322,2015-09-06T16:34:48Z,3069.0,1.0,Other,MetaMask/metamask-extension,1330.0,213927.0,8043.0,9.0,6774.0,2022-05-26T06:40:47Z,https://github.com/MetaMask/metamask-extension,8043.0
+67,1.0,527,47,2011-06-23T20:53:57Z,571.0,1.0,MIT License,olivernn/lunr.js,111.0,4095.0,8062.0,4.0,377.0,2022-05-25T16:49:07Z,https://github.com/olivernn/lunr.js,8062.0
+68,1.0,725,85,2011-07-11T15:12:29Z,999.0,1.0,MIT License,foliojs/pdfkit,358.0,26336.0,8069.0,0.0,1067.0,2022-05-26T08:20:50Z,https://github.com/foliojs/pdfkit,8069.0
+69,1.0,24273,290,2016-12-03T22:56:24Z,2542.0,0.0,GNU Lesser General Public License v3.0,abpframework/abp,649.0,504176.0,8038.0,14.0,6945.0,2022-05-26T06:55:55Z,https://github.com/abpframework/abp,8038.0
+70,1.0,35,4,2019-02-21T01:16:11Z,1855.0,1.0,MIT License,fuck-xuexiqiangguo/Fuck-XueXiQiangGuo,353.0,458048.0,8038.0,0.0,580.0,2022-05-26T07:09:08Z,https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo,8038.0
+71,1.0,965,74,2019-06-26T05:08:39Z,600.0,0.0,GNU Affero General Public License v3.0,knadh/listmonk,57.0,11518.0,8083.0,13.0,628.0,2022-05-26T08:13:27Z,https://github.com/knadh/listmonk,8083.0
+72,1.0,28,,2017-01-10T15:11:14Z,1787.0,0.0,Not Found,opendigg/awesome-github-wechat-weapp,11.0,23.0,8033.0,0.0,6.0,2022-05-25T06:04:46Z,https://github.com/opendigg/awesome-github-wechat-weapp,8033.0
+73,1.0,39,4,2016-04-01T20:39:47Z,629.0,0.0,Not Found,aphyr/distsys-class,6.0,92.0,8071.0,0.0,5.0,2022-05-25T19:55:01Z,https://github.com/aphyr/distsys-class,8071.0
+74,1.0,256,195,2018-10-25T21:31:44Z,673.0,0.0,Creative Commons Zero v1.0 Universal,rehooks/awesome-react-hooks,4.0,291.0,8079.0,5.0,0.0,2022-05-25T16:06:01Z,https://github.com/rehooks/awesome-react-hooks,8079.0
+75,1.0,291,3,2019-12-10T03:19:35Z,906.0,0.0,GNU General Public License v3.0,Loyalsoldier/v2ray-rules-dat,2.0,10532.0,8043.0,20.0,160.0,2022-05-26T09:04:45Z,https://github.com/Loyalsoldier/v2ray-rules-dat,8043.0
+76,1.0,7741,261,2012-09-07T01:13:24Z,1984.0,0.0,MIT License,VulcanJS/Vulcan,217.0,22100.0,8025.0,6.0,1468.0,2022-05-24T22:23:26Z,https://github.com/VulcanJS/Vulcan,8025.0
+77,1.0,151,19,2010-05-10T06:36:21Z,937.0,1.0,MIT License,harthur/brain,22.0,393.0,8018.0,0.0,46.0,2022-05-26T08:44:44Z,https://github.com/harthur/brain,8018.0
+78,1.0,148,14,2021-03-05T12:22:05Z,362.0,1.0,GNU Affero General Public License v3.0,marceloprates/prettymaps,36.0,106754.0,8021.0,7.0,54.0,2022-05-26T08:24:15Z,https://github.com/marceloprates/prettymaps,8021.0
+79,1.0,540,40,2010-08-15T11:51:16Z,758.0,0.0,Not Found,mishoo/UglifyJS-old,145.0,1915.0,8006.0,0.0,0.0,2022-05-18T19:28:09Z,https://github.com/mishoo/UglifyJS-old,8006.0
+80,1.0,9443,209,2015-11-25T22:55:10Z,1040.0,0.0,Other,brave/browser-laptop,298.0,396095.0,8005.0,9.0,11677.0,2022-05-21T02:40:04Z,https://github.com/brave/browser-laptop,8005.0
+81,1.0,1733,152,2015-06-02T17:19:20Z,1265.0,0.0,Other,microsoft/react-native-code-push,67.0,8001.0,8031.0,3.0,1514.0,2022-05-26T08:21:36Z,https://github.com/microsoft/react-native-code-push,8031.0
+82,1.0,12966,675,2011-03-06T14:30:46Z,2616.0,0.0,MIT License,pypa/pip,977.0,68946.0,8006.0,3.0,6256.0,2022-05-25T21:08:49Z,https://github.com/pypa/pip,8006.0
+83,1.0,1404,173,2015-06-03T09:21:01Z,1074.0,1.0,Apache License 2.0,resilience4j/resilience4j,160.0,7802.0,8005.0,6.0,952.0,2022-05-26T07:58:27Z,https://github.com/resilience4j/resilience4j,8005.0

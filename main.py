@@ -17,9 +17,9 @@ def main():
         print("cannot get GITHUB token from, please declare STAR_GITHUB_TOKEN environment variable.")
         return
 
-    lang = "python"
-    min_star_count = 100
-    max_star_count = 1000
+    lang = ""
+    min_star_count = 5000
+    max_star_count = 6000
     star_query = f"{min_star_count}..{max_star_count}"
 
     cwd = os.getcwd()
@@ -30,7 +30,8 @@ def main():
 
     data_folder = os.path.join(cwd, "data")
 
-    for i in range(2, 5):
+    # 
+    for i in range(4, 10):
         df = pd.DataFrame()
         repos, err = gitC.getRepos(i)
         filename = f"{lang}_{min_star_count}_{max_star_count}_{i}.csv"
